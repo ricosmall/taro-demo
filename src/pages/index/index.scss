@@ -1,0 +1,13 @@
+.index {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+
+  .now {
+    font-weight: bold;
+    color: #f60;
+    font-size: 1.5rem;
+  }
+}
